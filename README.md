@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ML, VR and IoT<br>🌱 I’m currently learning about <redacted><br>💬 Ask me about anything<br>⚡ Fun fact : "C was the first language I learnt, not python" 
+🔭 I’m currently working on ML, VR and IoT<br>🌱 I’m currently learning about &lt;redacted&gt; <br>💬 Ask me about anything<br>⚡ Fun fact : "C was the first language I learnt, not python" 
 
 
 ## 🌐 Socials:
