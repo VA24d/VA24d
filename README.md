@@ -1,19 +1,32 @@
-# 💫 About Me:
-🔭 I’m currently working on ML, VR and IoT<br>🌱 I’m currently learning about &lt;redacted&gt;  (〜￣∀￣ )〜 <br>💬 Ask me about anything<br>⚡ Fun fact : "C was the first language I learnt, not python" 
+## Hi, I'm Vijay Aravynthan 👋
 
+CS dual-degree student (B.Tech + MS by Research) at **IIIT Hyderabad**. I build software and ML systems, lately agentic AI and applied machine learning.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/1359215319159275814/1359215319616585862) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vijay_aravynthan/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vijay-aravynthan/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:simplebrainsdino@gmail.com) 
+- 🔬 Undergraduate researcher at the **Software Engineering Research Center** (SE × ML/VR); co-authored an ASE 2025 workshop paper
+- 🧪 AI/ML intern at **Lloyds Technology Centre** — agentic multi-agent systems on Google ADK + GCP, and fraud-detection models
+- 🛠️ Into: agentic AI (MCP, Google ADK), LLM fine-tuning, and VR conformance testing
+- ⚡ Fun fact: C was the first language I learnt, not Python
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=va24d&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=va24d&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=va24d&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+### 📌 Featured work
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=va24d&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+| Project | What it is |
+| --- | --- |
+| [RedRob Candidate Ranker](https://github.com/VA24d/RedRob-Megalodon-26) | Interpretable candidate recommendation/ranking — BGE embeddings + JD-tuned weights; NDCG@10 0.92 on a gold set |
+| [Apache Roller Enhanced](https://github.com/VA24d/apache-roller-enhanced) | Re-engineered a legacy Java/JPA platform with GoF design patterns + a Gemini RAG chatbot |
+| [Machine Unlearning on Gemma 3 1B](https://github.com/VA24d/INLP-Project) | Task-arithmetic and gradient-ascent unlearning; quantized models on [Hugging Face](https://huggingface.co/nightbloodredux) |
+| [SmartMess](https://github.com/VA24d/smartmess-crowd-estimation) | Privacy-preserving mess-crowd estimation from QR-scan data; shipped into the campus app |
+| [Copilot Analytics Extension](https://github.com/VA24d/VS-Copilot-extension) | VS Code extension for Copilot usage/cost analytics with Confluence, Jira, and GitHub tools |
 
----
-[![](https://visitcount.itsvg.in/api?id=va24d&icon=0&color=11)](https://visitcount.itsvg.in)
+📄 **Publication:** [A Conformance Checking System for Interaction Testing in Virtual Reality](https://dl.acm.org/doi/10.1109/ASEW67777.2025.00070) — ASE 2025 (ASEW), Seoul
+
+### 🧰 Tech
+
+![](https://skillicons.dev/icons?i=java,python,c,cpp,ts,js,rust,pytorch,sklearn,fastapi,nextjs,react,gcp,aws,docker,git,linux,mysql)
+
+Also: Hugging Face · scikit-learn · Keras · OpenCV · Google ADK · Model Context Protocol (MCP) · Bitbucket
+
+### 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-aravynthan/)
+[![Website](https://img.shields.io/badge/Website-va24d.github.io-1C1E24?logo=githubpages&logoColor=white)](https://va24d.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vijay.s@research.iiit.ac.in)
