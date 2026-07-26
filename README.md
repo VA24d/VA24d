@@ -21,7 +21,7 @@ CS dual-degree student (B.Tech + MS by Research) at **IIIT Hyderabad**. I build 
 
 ### 🧰 Tech
 
-![](https://skillicons.dev/icons?i=java,python,c,cpp,ts,js,rust,pytorch,sklearn,fastapi,nextjs,react,gcp,aws,docker,git,linux,mysql)
+![](https://skillicons.dev/icons?i=java,python,c,cpp,ts,js,rust,pytorch,sklearn,fastapi,nextjs,react,gcp,docker,git,linux,mysql)
 
 Also: Hugging Face · scikit-learn · Keras · OpenCV · Google ADK · Model Context Protocol (MCP) · Bitbucket
 
