@@ -11,7 +11,7 @@ CS dual-degree student (B.Tech + MS by Research) at **IIIT Hyderabad**. I build 
 
 | Project | What it is |
 | --- | --- |
-| [RedRob Candidate Ranker](https://github.com/VA24d/RedRob-Megalodon-26) | Interpretable candidate recommendation/ranking — BGE embeddings + JD-tuned weights; NDCG@10 0.92 on a gold set |
+| [RedRob Candidate Ranker](https://github.com/VA24d/RedRob-Megalodon-26) | Interpretable candidate recommendation & ranking — semantic search + explainable scoring; NDCG@10 0.92 on a labelled set |
 | [Apache Roller Enhanced](https://github.com/VA24d/apache-roller-enhanced) | Re-engineered a legacy Java/JPA platform with GoF design patterns + a Gemini RAG chatbot |
 | [Machine Unlearning on Gemma 3 1B](https://github.com/VA24d/INLP-Project) | Task-arithmetic and gradient-ascent unlearning; quantized models on [Hugging Face](https://huggingface.co/nightbloodredux) |
 | [SmartMess](https://github.com/VA24d/smartmess-crowd-estimation) | Privacy-preserving mess-crowd estimation from QR-scan data; shipped into the campus app |
