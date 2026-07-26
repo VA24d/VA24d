@@ -8,7 +8,7 @@ CS dual-degree student (B.Tech + MS by Research) at **IIIT Hyderabad**. I build 
 - ⚡ Fun fact: C was the first language I learnt, not Python
 - 🏀 Basketball: 24
 
-### 📌 Recent work I'm proud of
+###  Recent work I'm proud of
 
 | Project | What it is |
 | --- | --- |
@@ -18,9 +18,10 @@ CS dual-degree student (B.Tech + MS by Research) at **IIIT Hyderabad**. I build 
 | [SmartMess](https://github.com/VA24d/smartmess-crowd-estimation) | Privacy-preserving mess-crowd estimation from QR-scan data; shipped into the campus app |
 | [Copilot Analytics Extension](https://github.com/VA24d/VS-Copilot-extension) | VS Code extension for Copilot usage/cost analytics with Confluence, Jira, and GitHub tools |
 
-📄 **Publication:** [A Conformance Checking System for Interaction Testing in Virtual Reality](https://dl.acm.org/doi/10.1109/ASEW67777.2025.00070), ASE 2025 (ASEW), Seoul
+**Publications(More on the way):** 
+- [A Conformance Checking System for Interaction Testing in Virtual Reality](https://dl.acm.org/doi/10.1109/ASEW67777.2025.00070), ASE 2025 (ASEW), Seoul
 
-### 🧰 Tech
+### Tech
 
 ![](https://skillicons.dev/icons?i=java,python,c,cpp,ts,js,rust,pytorch,sklearn,fastapi,nextjs,react,gcp,docker,git,linux,mysql)
 
