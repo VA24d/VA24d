@@ -7,7 +7,7 @@ CS dual-degree student (B.Tech + MS by Research) at **IIIT Hyderabad**. I build 
 - 🛠️ Into: agentic AI (MCP, Google ADK), LLM fine-tuning, and VR conformance testing
 - ⚡ Fun fact: C was the first language I learnt, not Python
 
-### 📌 Featured work
+### 📌 Recent work I'm proud of
 
 | Project | What it is |
 | --- | --- |
