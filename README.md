@@ -6,6 +6,7 @@ CS dual-degree student (B.Tech + MS by Research) at **IIIT Hyderabad**. I build 
 - 🧪 AI/ML intern at **Lloyds Technology Centre**, building agentic multi-agent systems on Google ADK + GCP plus fraud-detection models
 - 🛠️ Into: agentic AI (MCP, Google ADK), LLM fine-tuning, and VR conformance testing
 - ⚡ Fun fact: C was the first language I learnt, not Python
+- 🏀 Basketball: 24
 
 ### 📌 Recent work I'm proud of
 
